@@ -1,0 +1,14 @@
+.header{
+    background-color: purple;
+    color : white;
+    text-align: center;
+}
+
+.container{
+    padding: 50px 0px 50px 0px;
+}
+
+.footer{
+    margin-top: 10px;
+    background-color:yellowgreen;
+}
