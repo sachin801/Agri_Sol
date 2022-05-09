@@ -4,6 +4,16 @@
     text-align: center;
 } */
 
+/* .container{
+    margin-top : 20px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+} */
+.map{
+    border: blue;
+    border-width: 10px;
+}
+
 .jumbotron{
     padding: 60px 30px 70px 30px;
     background-color: #9575CD;
@@ -25,3 +35,4 @@
     padding-top: 20px;
     background-color: #512dab;
 }
+
